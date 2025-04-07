@@ -16,7 +16,7 @@
 title: "José Zurita-Tapia"
 email: "jose.zurita-tapia@uib.no"
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate in Comparative Poltiics.
+  PhD Candidate in Comparative Politics.
   From Quito, Ecuador - Based in Bergen, Norway.
 twitter_username: JoseZuritaT
 github_username: josezuritat
@@ -59,11 +59,12 @@ plugins:
 author:
   name   : "José Zurita-Tapia"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "PhD Candidate in Comparative Poltiics.
-  From Quito, Ecuador - Based in Bergen, Norway."
+  bio    : "PhD Candidate in Comparative Politics.
+
+  Quito, Ecuador - Bergen, Norway."
   links:
     - label: "Twitter"
-      icon: "ab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoseZuritaT"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
