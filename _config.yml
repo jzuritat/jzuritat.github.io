@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "José Zurita Tapia"
+  name   : "José Zurita-Tapia"
   avatar : "/assets/images/bio-photo.png"
   bio    : "PhD Candidate in Comparative Politics. 
   From Quito, Ecuador. Based in Bergen, Norway."
