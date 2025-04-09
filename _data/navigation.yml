@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Research Projects"
+    url: /research/
+  - title: "Contact Me"
+    url: /contact/
+
+secondary:
+  - title: "Sobre Mi"
+    url: /sobremi/
+  - title: "Hoja de Vida"
+    url: /hojadevida/
+  - title: "Proyectos de Investigación"
+    url: /proyectos/
+  - title: "Contacto"
+    url: /contacto/
