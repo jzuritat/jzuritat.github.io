@@ -5,8 +5,8 @@ permalink: /sp/cv/
 author_profile: true
 ---
 
-You can download my CV in English here:
-[Download PDF](/assets/files/spanish.pdf)
+Puedes descargar mi Hoja de Vida en Español aquí:
+[Descargar PDF](/assets/files/spanish.pdf)
 
 ### Líneas de Investigación
 - Partidos y Sistemas de Partidos
