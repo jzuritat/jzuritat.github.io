@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- "Electoral commitment and coalition policymaking in Latin American Legislatures", with John Polga-Hecimovich & Jason Eichorst.
+- "Electoral commitment and coalition policymaking in Latin American Legislatures", con John Polga-Hecimovich & Jason Eichorst.
 
 - "How policy positions and presidential approval influence the stability of pre-electoral coalitions."
 
@@ -16,9 +16,9 @@ author_profile: true
 
 - "Stability of pre-electoral coalitions in Latin America."
 
-- "Pre-electoral coalitions", with Raimondas Ibenskas for the Edward Elgar Handbook on Coalition Politics.
+- "Pre-electoral coalitions", con Raimondas Ibenskas para el Edward Elgar Handbook on Coalition Politics.
 
-- "The role of the opposition in the Ecuadorian Legislature", with Sergio Hertas-Hernández.
+- "The role of the opposition in the Ecuadorian Legislature", con Sergio Hertas-Hernández.
 
 - "Where the Veep's Are: Analysing vice presidential subsequent political careers."
 
