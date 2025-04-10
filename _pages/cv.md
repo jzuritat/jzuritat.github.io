@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-### English Version:
+# English Version:
 
 ## Areas of Research
 - Party Politics
@@ -21,7 +21,7 @@ author_profile: true
 Download my CV in English [here.](/assets/files/english.pdf)
 
 
-### Spanish Version:
+# Spanish Version:
 
 ### Líneas de Investigación
 - Partidos y Sistemas de Partidos
