@@ -7,8 +7,6 @@ main:
     url: /research/
   - title: "Contact Me"
     url: /contact/
-
-secondary:
   - title: "Sobre Mi"
     url: /sobremi/
   - title: "Hoja de Vida"
