@@ -8,10 +8,16 @@ main:
   - title: "Research Projects"
     url: /research/
 
+  - title: "Op-Eds"
+    url: /opeds/
+
   - title: "Contact Me"
     url: /contact/
 
   - title: "Sobre Mí"
     url: /sobremi/
+
   - title: "Proyectos de Investigación"
     url: /proyectos/
+  - title: "Editoriales"
+    url: /editoriales/
