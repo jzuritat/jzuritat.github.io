@@ -3,6 +3,7 @@ main:
     url: /about/
 
   - title: "CV"
+    url: "#"
     children:
       - title: "English"
         url: /en/cv/
