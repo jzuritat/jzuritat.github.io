@@ -3,12 +3,7 @@ main:
     url: /about/
 
   - title: "CV"
-    url: "#"
-    children:
-      - title: "English"
-        url: /en/cv/
-      - title: "Spanish"
-        url: /sp/cv/
+    url: "cv"
 
   - title: "Research Projects"
     url: /research/
@@ -16,15 +11,7 @@ main:
   - title: "Contact Me"
     url: /contact/
 
-  - title: "Español"
-    children:
-      - title: "Sobre Mí"
-        url: /sobremi/
-      - title: "Hoja de Vida"
-        url: /hojadevida/
-      - title: "Proyectos de Investigación"
-        url: /proyectos/
-      - title: "Docencia"
-        url: /docencia/
-      - title: "Contacto"
-        url: /contacto/
+  - title: "Sobre Mí"
+    url: /sobremi/
+  - title: "Proyectos de Investigación"
+    url: /proyectos/
