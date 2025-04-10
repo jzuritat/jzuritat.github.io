@@ -5,6 +5,9 @@ main:
   - title: "CV"
     url: "cv"
 
+  - title: "Publications"
+    url: "publications"
+
   - title: "Research Projects"
     url: /research/
 
@@ -16,8 +19,12 @@ main:
 
   - title: "Sobre Mí"
     url: /sobremi/
+    
+  - title: "Publications"
+    url: "publications"
 
   - title: "Proyectos de Investigación"
     url: /proyectos/
+
   - title: "Editoriales"
     url: /editoriales/
