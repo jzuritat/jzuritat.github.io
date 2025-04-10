@@ -4,7 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-\n
 
 # English Version:
 
@@ -21,7 +20,6 @@ author_profile: true
 
 Download my CV in English [here.](/assets/files/english.pdf)
 
-\n
 # Spanish Version:
 
 ### Líneas de Investigación
