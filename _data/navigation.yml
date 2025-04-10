@@ -19,9 +19,9 @@ main:
 
   - title: "Sobre Mí"
     url: /sobremi/
-    
-  - title: "Publications"
-    url: "publications"
+
+  - title: "Publicaciones"
+    url: "publicaciones"
 
   - title: "Proyectos de Investigación"
     url: /proyectos/
