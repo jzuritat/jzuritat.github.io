@@ -1,0 +1,7 @@
+/* Enlarge sidebar avatar */
+
+.sidebar .author__avatar img {
+  width: 180px !important;
+  height: auto;
+  border-radius: 50%;
+}

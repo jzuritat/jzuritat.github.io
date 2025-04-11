@@ -108,6 +108,12 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
+
+# Load custom styles
+assets:
+  css:
+    - /assets/css/custom.css
