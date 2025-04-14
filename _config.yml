@@ -59,6 +59,7 @@ plugins:
 author:
   name   : "José Zurita-Tapia"
   avatar : "/assets/images/bio-photo.jpg"
+  avatar_size: "200px"
   bio    : "PhD Candidate in Comparative Politics. Quito, Ecuador - Bergen, Norway."
   
   links:
