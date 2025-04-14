@@ -73,8 +73,7 @@ author:
       url: "https://github.com/jzuritat"
 
 sidebar:
-  - title: 
-    image: /assets/images/bio-photo.jpg/160x200
+  - image: /assets/images/bio-photo.jpg/160x200
 
 footer:
   links:
