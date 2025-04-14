@@ -72,9 +72,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jzuritat"
 
-sidebar:
-  - image: /assets/images/bio-photo.jpg/160x200
-
 footer:
   links:
     - label: "Twitter"
