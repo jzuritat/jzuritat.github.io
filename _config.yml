@@ -89,17 +89,6 @@ footer:
       url: "https://www.linkedin.com/in/jose-zurita-tapia-0756097a/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
