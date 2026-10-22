@@ -8,3 +8,8 @@
   padding: 0 !important;
   border-radius: 8px !important;   /* 0 = sharp corners */
 }
+
+/* Remove the faded sidebar effect */
+.sidebar {
+  opacity: 1 !important;
+}
