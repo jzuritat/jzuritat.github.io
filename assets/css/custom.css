@@ -1,8 +1,10 @@
-/* Enlarge sidebar avatar */
-
+/* Sidebar profile picture: bigger, no frame */
 .sidebar .author__avatar img,
 .author__avatar img {
-  width: 200px !important;
+  width: 220px !important;
+  max-width: 220px !important;
   height: auto !important;
-  border-radius: 50% !important;
+  border: none !important;
+  padding: 0 !important;
+  border-radius: 8px !important;   /* 0 = sharp corners */
 }
